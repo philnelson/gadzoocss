@@ -1,0 +1,68 @@
+.ad-728 {
+	width: 728px;
+	height: 90px;
+	
+}
+
+.ad-468 {
+	width: 468px;
+	height: 60px;
+}
+
+.ad-234 {
+	width: 234px;
+	height: 60px;
+}
+
+.ad-180 {
+	width: 180px;
+	height: 150px;
+}
+
+.ad-160 {
+	height: 600px;
+	width: 160px;
+}
+
+.ad-125 {
+	height: 125px;
+	width: 125px;
+}
+
+.ad-120 {
+	height: 600px;
+	width: 120px;
+}
+
+.ad-120a {
+	height: 240px;
+	width: 120px;
+}
+
+.ad-200 {
+	height: 200px;
+	width: 200px;
+}
+
+.ad-250 {
+	height: 250px;
+	width: 250px;
+}
+
+.ad-300 {
+	height: 250px;
+	width: 300px;
+}
+
+.ad-336 {
+	width: 336px;
+	height: 280px;
+}
+
+.ad-striping-light {
+	background: #fff url('ad_bg_light.png') top left;
+}
+
+.ad-striping-dark {
+	background: #fff url('ad_bg_dark.png') top left;
+}
